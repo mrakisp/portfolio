@@ -49,8 +49,21 @@ nav.main-nav a {
 span.about__text__title {
   font-size: 30px;
 }
-
-
+section {
+  margin-top: 100px;
+}
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.portfolio-item {
+  max-width: 350px;
+  height: 350px;
+  background: aqua;
+  margin: 10px;
+  min-width: 350px;
+}
 
 
 
